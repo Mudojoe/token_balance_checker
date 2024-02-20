@@ -26,11 +26,11 @@
 ## Notes
 
 * this the output : 
-> Enter your wallet address: 
-0x40B38765696e3d5d8d9d834D8AaD4bB6e418E489
-> Enter the token address: 
-0x514910771AF9Ca656af840dff83E8264EcF986CA 
->Your balance is: 2400001213955000000000000 
+* > Enter your wallet address: 
+* 0x40B38765696e3d5d8d9d834D8AaD4bB6e418E489
+* > Enter the token address: 
+* 0x514910771AF9Ca656af840dff83E8264EcF986CA 
+* >Your balance is: 2400001213955000000000000 
 
 
 
